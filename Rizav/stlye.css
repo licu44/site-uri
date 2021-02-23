@@ -1,0 +1,133 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+body, html {
+  height: 100%;
+}
+
+/*  navbar  */
+.navbar{
+  background-color: #1e1e1e;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color:#f1f1f1;
+}
+.navbar .navbar-brand{
+  color:#f1f1f1;
+  font-weight: bold;
+
+}
+.navbar .navbar-brand:hover{
+  color:#fa163f;
+}
+/* iamgine fundal */
+.bg{
+  height: 100%;
+}
+/* primul scris */
+#primul-h1{
+  padding-top: 21%;
+  color:#f1f1f1;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+#doi-h2
+{
+  color:#d7d1c9;
+  font-weight:  lighter;
+  font-style: italic;
+}
+/* a doua pagina ... servicii */
+.Servicii{
+  background-color: #f1f3f4;
+}
+#servicii-h{
+  font-weight: bold;
+  font-size:3.5rem;
+  letter-spacing: 4px;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
+.feature-box{
+  margin: 50px auto 100px;
+}
+.icon:hover{
+  color:#eb4d55;
+}
+/* a treia pagina ... proiecte */
+.proiecte{
+  padding-bottom: 6%;
+  background-color: #d4d7dd;
+  /* d4d7dd */
+}
+#proiecte-h{
+  font-weight: bold;
+  color:#2d132c;
+  font-size:3.5rem;
+  letter-spacing: 4px;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+
+
+/* a treia pagina ... despre noi */
+.despre-noi{
+  background-color: #f1f3f4;
+  padding-top: 6%;
+}
+.sub-title{
+  color:#ff5151;
+  font-weight:  300;
+}
+#cine-suntem{
+  font-weight: bold;
+  letter-spacing: 4px;
+  /padding-bottom: 2rem;
+  padding-top: 3%;
+}
+.mb-5 {
+    margin-bottom: 0rem!important;
+    padding-bottom: 3rem;
+}
+
+
+/* recenzii */
+#testimoniale {
+  background-color: #d4d7dd;
+}
+.reviews {
+  width:100%;
+  height: 33rem;
+  text-align: center;
+}
+.carousel-item {
+  text-align: center;
+}
+.testimonial-text {
+  font-size: 1.9rem;
+  line-height: 1.2;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.testimonial-image {
+  width: 7%;
+  padding-top:3rem;
+  padding-bottom: 5rem;
+}
+.titlu-recenzii {
+  font-weight: bold;
+  font-size: 3.3rem;
+  letter-spacing: 3px;
+  position: relative;
+  top:3rem;
+}
+
+
+/* footer ala de jos */
+
+.page-footer{
+  background-color: #393e46;
+  color:#f1f1f1;
+}
